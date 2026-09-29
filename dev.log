@@ -1,0 +1,45 @@
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1515ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1066ms (678 modules)
+ GET / 200 in 1331ms
+ GET / 200 in 80ms
+ ✓ Compiled /api/order-notify in 189ms (391 modules)
+CallMeBot notification response: <p>Message to: +16198914607<p>Text to send: 🛍️ *NUEVO PEDIDO SD DEALS #SD-1001*%0A%0A👤 *Cliente:* Prueba Notificación Automática%0A📱 *Teléfono:* 6198914607%0A✉️ *Email:* sddeals@zohomail.com%0A📦 *Artículos:* iPhone 16 Pro 128GB - Titanio Natural (x1)%0A💵 *Total:* $1022.55%0A🚚 *Método:* Shipping%0A📍 *Dirección:* San Diego, California%0A%0A_Pedido registrado automáticamente en SD Deals_<p><b>Message queued.</b> You will receive it in a few seconds.
+ POST /api/order-notify 200 in 1792ms
+ GET / 200 in 98ms
+CallMeBot notification response: <p>Message to: +16198914607<p>Text to send: 🛍️ *NUEVO PEDIDO SD DEALS #SD-8846*%0A%0A👤 *Cliente:* Carlos Mendez%0A📱 *Teléfono:* 6198914607%0A✉️ *Email:* carlos.mendez@example.com%0A📦 *Artículos:* iPhone 16 Pro 128GB - Titanio Natural (x1)%0A💵 *Total:* $1022.55%0A🚚 *Método:* Shipping%0A📍 *Dirección:* 500 Gaslamp Quarter, San Diego, CA 92101%0A%0A_Pedido registrado automáticamente en SD Deals_<p><b>Message queued.</b> You will receive it in a few seconds.
+ POST /api/order-notify 200 in 1312ms
+ ✓ Compiled in 7.4s (704 modules)
+ ✓ Compiled in 437ms (704 modules)
+ ✓ Compiled in 397ms (704 modules)
+ GET / 200 in 116ms
+ ✓ Compiled /_not-found in 182ms (693 modules)
+ GET /_next/static/css/app/layout.css?v=1790578242032 404 in 263ms
+ GET /_next/static/chunks/webpack.js?v=1790578242032 404 in 263ms
+ GET /_next/static/chunks/main-app.js?v=1790578242032 404 in 241ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 240ms
+ GET /_next/static/chunks/app/page.js 404 in 239ms
+ GET / 200 in 107ms
+ GET /_next/static/css/app/layout.css?v=1790578264168 404 in 37ms
+ GET /_next/static/chunks/main-app.js?v=1790578264168 404 in 19ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 18ms
+ GET /_next/static/chunks/app/page.js 404 in 18ms
+ HEAD / 200 in 32ms
+ GET / 200 in 71ms
+ GET /_next/static/css/app/layout.css?v=1790578301844 404 in 12ms
+ GET /_next/static/chunks/main-app.js?v=1790578301844 404 in 39ms
+ GET /_next/static/chunks/app/page.js 404 in 37ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 38ms
+ GET / 200 in 39ms
+ GET / 200 in 29ms
+ GET /_next/static/css/app/layout.css?v=1790578323862 404 in 17ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 21ms
+ GET /_next/static/chunks/main-app.js?v=1790578323862 404 in 22ms
+ GET /_next/static/chunks/app/page.js 404 in 21ms
+ HEAD /_next/static/css/app/layout.css 404 in 42ms
+[?25h

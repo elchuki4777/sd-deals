@@ -1,0 +1,2 @@
+import type { Config } from 'tailwindcss';
+const config: Config = { content: ['./app/**/*.{js,ts,jsx,tsx,mdx}','./components/**/*.{js,ts,jsx,tsx,mdx}'], theme: { extend: { colors: { ink:'#090a0f',panel:'#11131b',line:'#242733',muted:'#9297a8',violet:'#8668f7',electric:'#7394ff' }, fontFamily:{sans:['Arial','Helvetica Neue','sans-serif']}, boxShadow:{glow:'0 0 60px rgba(123,98,255,.15)'} } }, plugins:[] }; export default config;
